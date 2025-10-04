@@ -8,14 +8,14 @@ The repository contains code for preprocessing e-commerce product descriptions a
 
 ## Features
 -  **Text Preprocessing**:
-	- Tokenization, stopword removal, and stemming/lemmatization.
-	- Conversion of text data into numerical features (e.g., TF-IDF).
+	- Tokenization, stopword removal, and stemming/lemmatization
+	- Conversion of text data into numerical features (e.g., TF-IDF)
 -  **Classification Models**:
 	- Implementation of classification neural network with Keras
 -  **Evaluation**:
-	- Metrics such as accuracy and confusion matrix heatmap.
+	- Metrics such as accuracy and confusion matrix heatmap
 -  **Dataset**:
-	- Uses the [E-Commerce Text Classification dataset](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification) from Kaggle.
+	- Uses the [E-Commerce Text Classification dataset](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification) from Kaggle
 
 ## Installation
 To run the project locally, follow these steps:
