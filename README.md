@@ -20,11 +20,11 @@ The repository contains code for preprocessing e-commerce product descriptions a
 ## Installation
 To run the project locally, follow these steps:
 ```bash
-git  clone  https://github.com/papaya147/ecommerce-text-classification.git
-cd  ecommerce-text-classification
-conda  create  --prefix  ./env  python=3.11
-conda  activate  ./env
-pip  install  -r  requirements.txt
+git clone https://github.com/papaya147/ecommerce-text-classification.git
+cd ecommerce-text-classification
+conda create --prefix ./env python=3.11
+conda activate ./env
+pip install -r requirements.txt
 ```
 
 ### Prerequisites
